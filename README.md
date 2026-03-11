@@ -46,17 +46,18 @@ Fundamentos da linguagem Python:
 - funções
 - exercícios de prática
 
-### 📘 Algoritmos
+---
 
+### 📘 Algoritmos
 Fundamentos da lógica de programação:
 
--lógica de programação
--variáveis
--operadores
--estruturas condicionais
--estruturas de repetição
--fluxogramas
--pseudocódigo
+- lógica de programação
+- variáveis
+- operadores
+- estruturas condicionais
+- estruturas de repetição
+- fluxogramas
+- pseudocódigo
 
 ---
 
