@@ -1,47 +1,35 @@
-# 📱 Projeto Android
+# 📜 Projeto Cordel
 
-Este projeto foi desenvolvido durante o curso de **HTML5 e CSS3** do **Curso em Vídeo**, ministrado por **Gustavo Guanabara**.
+Este projeto foi desenvolvido durante o curso de **HTML5 e CSS3** do Curso em Vídeo.
 
-O objetivo foi praticar a criação de uma página web completa utilizando conceitos fundamentais de desenvolvimento front-end.
+O objetivo foi criar uma página inspirada na literatura de **cordel**, utilizando efeitos visuais e técnicas de estilização em CSS.
 
 ## 📚 Conteúdo aplicado
 
-Durante o desenvolvimento deste projeto foram praticados:
+* Estrutura semântica em HTML
+* Estilização avançada com CSS
+* Efeito **Parallax**
+* Uso de **background fixo**
+* Tipografia personalizada
 
-* Estruturação de páginas com **HTML5**
-* Estilização com **CSS3**
-* Uso de **fontes personalizadas**
-* Uso de **cores e variáveis CSS**
-* Criação de **layout responsivo**
-* Organização semântica da página
+## 🎯 Objetivo
 
-## 📂 Estrutura do projeto
+Praticar efeitos visuais modernos e melhorar a apresentação de textos na web.
 
-```
-projeto-android
-│
-├── index.html
-├── style.css
-└── imagens
-```
-
-## 🎯 Objetivo do projeto
-
-Criar uma página informativa sobre a história do sistema **Android**, aplicando boas práticas de HTML e CSS.
-
-## 💻 Tecnologias utilizadas
+## 💻 Tecnologias
 
 * HTML5
 * CSS3
 
 ## 📖 Aprendizados
 
-Este projeto ajudou a consolidar conhecimentos sobre:
+Durante o projeto foram praticados:
 
-* Semântica em HTML
-* Organização de layout
-* Uso correto de CSS para estilização
+* Uso de imagens de fundo
+* Controle de seções da página
+* Estilização tipográfica
+* Criação de experiência visual agradável
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido por **Vinicius Silva** durante os estudos no curso de HTML e CSS do Curso em Vídeo.
+Projeto desenvolvido por **Vinicius Silva** durante o curso de HTML e CSS do Curso em Vídeo.
